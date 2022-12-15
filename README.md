@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F38B35&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Davide+Vignozzi;I'm+24+years+old;I'm+from+Italy;Welcome!)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davidevignozzi&show_icons=true&count_private=true&hide_border=true&title_color=F38B35&icon_color=F38B35&text_color=c9d1d9&bg_color=222222" alt="Davide Vignozzi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidevignozzi&layout=compact&hide_border=true&title_color=F38B35&text_color=F38B35&bg_color=222222" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidevignozzi&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats&)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidevignozzi&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 &ensp;
 
