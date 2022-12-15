@@ -5,7 +5,7 @@
 &ensp;
 
 <div align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidevignozzi&show_icons=true&theme=calm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidevignozzi&show_icons=true&theme=calm&hide=php,blade" />
 </div>
 
 &ensp;
@@ -17,13 +17,16 @@
   
 &ensp;
   
-### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-222222?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=222222)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-222222?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=222222)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-222222?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=222222)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=javascript&labelColor=222222)&nbsp;
-![Three.js](https://img.shields.io/badge/-Three.js-222222?style=for-the-badge&logo=Three.js&logoColor=ffffff&labelColor=222222)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-222222?style=for-the-badge&logo=react&labelColor=222222)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-222222?style=for-the-badge&logo=Vue.js&labelColor=222222)&nbsp;
+
+<div align='center'>
+  <h3>Main Skills:</h3>
+  <img src='https://img.shields.io/badge/-HTML-222222?style=for-the-badge&logo=HTML5&logoColor=E34F26&labelColor=222222' />
+  <img src='https://img.shields.io/badge/-CSS-222222?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=222222' />
+  <img src='https://img.shields.io/badge/-Bootstrap-222222?style=for-the-badge&logo=Bootstrap&logoColor=7952B3&labelColor=222222' />
+  <img src='https://img.shields.io/badge/-JavaScript-222222?style=for-the-badge&logo=javascript&labelColor=222222' />
+  <img src='https://img.shields.io/badge/-Three.js-222222?style=for-the-badge&logo=Three.js&logoColor=ffffff&labelColor=222222' />
+  <img src='https://img.shields.io/badge/-React.js-222222?style=for-the-badge&logo=react&labelColor=222222' />
+  <img src='https://img.shields.io/badge/-Vue-222222?style=for-the-badge&logo=Vue.js&labelColor=222222' />
+</div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F38B35&height=120&section=footer"/>
